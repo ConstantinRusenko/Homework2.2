@@ -16,7 +16,7 @@ function minValue(arr) {
     for (i = 0; i < arr.length; i++)
         if (min > arr[i])
             min = arr[i];
-    console.log("Max value: ",min);
+    console.log("Min value: ",min);
 }
 
 
